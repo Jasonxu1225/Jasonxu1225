@@ -19,9 +19,8 @@
 
 ![ShengXu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasonxu1225&theme=default&show_icons=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jasonxu1225&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ShengXu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jasonxu1225&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=Jasonxu1225.Jasonxu1225.readme)
 
 <!--
 **Jasonxu1225/Jasonxu1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
