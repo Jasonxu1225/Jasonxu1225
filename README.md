@@ -15,9 +15,9 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jasonxu1225&repo=constraint_learning_new&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonxu1225&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Jasonxu1225&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-![ShengXu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasonxu1225&theme=default&show_icons=true)
+![ShengXu's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Jasonxu1225&theme=default&show_icons=true)
 
 [![ShengXu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jasonxu1225&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
