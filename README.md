@@ -18,7 +18,7 @@
 
 ![ShengXu's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Jasonxu1225&theme=default&show_icons=true)
 
-![ShengXu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jasonxu1225&theme=react)
+<!-- ![ShengXu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jasonxu1225&theme=react) -->
 
 <!--
 **Jasonxu1225/Jasonxu1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
