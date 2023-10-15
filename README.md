@@ -1,5 +1,4 @@
-#### 👋 Hi, I'm Sheng Xu, a fourth year undergraduate student from NWPU
-#### 🔭 I'm currently working as an Research Assistant at CUHK, SZ, with Prof. Guiliang Liu
+#### 👋 Hi, I'm Sheng Xu, a first year PhD student from CUHK-SZ
 #### ⚡ To be Self-discipline, Modest, Careful, Low-key, Pragmatic
 
 <p>
