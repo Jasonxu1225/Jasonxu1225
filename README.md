@@ -2,8 +2,8 @@
 #### ⚡ To be Self-discipline, Modest, Careful, Low-key, Pragmatic
 
 <p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-<img src="https://img.shields.io/static/v1?label=Research&message=Reinfocement Learning&color=red"/>
+<!-- <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=Research&message=Reinfocement Learning&color=red"/> -->
   
 <!-- <a href="xxx"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 <a href="xxx"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a> -->
