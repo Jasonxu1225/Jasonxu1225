@@ -1,4 +1,4 @@
-#### 👋 Hi, I'm Sheng Xu, a second year PhD student from CUHK-SZ
+#### 👋 Hi, I'm Sheng Xu, a third year PhD candidate from CUHK-SZ
 #### ⚡ To be Self-discipline, Modest, Careful, Low-key, Pragmatic
 
 <p>
